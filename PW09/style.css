@@ -7,52 +7,119 @@
 
 
 * {
-    margin:          0;
-    padding:         0;
-    border:          0;
-    box-sizing:      border-box;
+    margin:           0;
+    padding:          0;
+    border:           0;
+    box-sizing:       border-box;
 }
 
 html, body {
-    width:           100%;
-    height:          100%;
+    width:            100%;
+    height:           100%;
 }
 
 img {
-    width:           100%;
-    max-width:       100%;
-    height:          auto;
-    vertical-align:  middle;
+    width:            100%;
+    max-width:        100%;
+    height:           auto;
+    vertical-align:   middle;
 }
 
 #forma {
-    position:        absolute;
-    right:           0;
-    top:             0;
-    width:           45%;
+    position:         absolute;
+    right:            0;
+    top:              0;
+    width:            45%;
 }
 
 main {
-    position:        relative;
-    z-index:         1;
-    width:           100%;
-    max-width:       1300px;
-    margin:          0 auto;
-    height:          auto;
+    position:         relative;
+    z-index:          1;
+    width:            100%;
+    max-width:        1300px;
+    margin:           0 auto;
+    height:           auto;
 }
 
 header {
-    width:           100%;
-    height:          auto;
+    padding-top:      20px;
+    width:            100%;
+    height:           auto;
+    margin:           20px 0 0 0;
     
-    display:         flex;
+    display:          flex;
 }
 
 nav {
-    display:         flex;
-    flex-grow:       1;
-    justify-content: space-evenly;
-    align-items:     center;
+    display:          flex;
+    flex-grow:        1;
+    justify-content:  space-evenly;
+    align-items:      center;
 }
 
 #logo { width: 300px; }
+
+.menu {
+    font-family:      'Bebas Neue', sans-serif;
+    font-size:        20pt;
+    color:            rgb(23,53,64);
+    background-color: transparent;
+    cursor:           pointer;
+}
+
+/*Pseudo classe (:hover) */
+.menu:hover { color: rgb(255,148,0); }
+
+.btn {
+    border:           2px solid rgb(23,53,64);
+    border-radius:    8px;
+    padding:          0 15px;
+    padding-top:      4px;
+}
+
+.btn:hover {
+    background-color: rgb(23,53,64);
+    color:            rgb(255,148,0);
+}
+
+.btn:active { transform: scale(0.9); }
+
+#conteudo { display: flex; }
+
+#coluna-1 { width:   60%;  }
+#coluna-2 { width:   40%;  }
+
+h1 {
+    font-family:      'Bebas Neue', sans-serif;
+    color:            rgb(23,53,64);
+    font-size:        60pt;
+    font-weight:      400;
+    padding:          0 0 15px 0;
+    width:            60%;
+    line-height:      100%;
+}
+
+h2 {
+    font-family:      'Bebas Neue', sans-serif;
+    color:            rgb(255,148,0);
+    font-size:        20pt;
+    font-weight:      400;
+    padding:          30px 0 15px 0;
+}
+
+p {
+    font-family:      'Poppins', sans-serif; 
+    line-height:      180%;
+}
+
+.btn-laranja {
+    font-family:      'Bebas Neue', sans-serif;
+    font-size:        20pt;
+    background-color: rgb(255,148,0);
+    border-radius:    8px;
+    padding:          0 15px;
+    padding-top:      4px;
+    color:            white;
+    cursor:           pointer;
+    margin:           20px 0 0 0;
+}
