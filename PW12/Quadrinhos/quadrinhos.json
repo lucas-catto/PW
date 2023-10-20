@@ -1,0 +1,34 @@
+{
+    "quadrinhos" : [
+        {
+            "titulo"    : "Grandes Heróis DC: Os Novos 52 Vol. 6 - Batman: Faces Da Morte",
+            "descricao" : "Uma nova e terrível ameaça paira sobre Gotham City e esse novo e misterioso criminoso está totalmente implicado no desaparecimento do Coringa das instalações do Asilo Arkham. Correndo contra o tempo e tendo de lidar com dois possíveis adversários ao mesmo tempo, o Cavaleiro das Trevas vai ser testado até o seu limite!<br> O aclamado roteirista e artista Tony S. Daniel (Exterminador) assume as aventuras do Homem-Morcego, trazendo um dos contos mais perturbadores de Batman!",
+            "imagem"    : "./img/1.webp"
+        },
+        {
+            "titulo"    : "Grandes Heróis DC: Os Novos 52 Vol. 5 - Aquaman: As Profundezas",
+            "descricao" : "Sob as águas que cobrem a Terra, Aquaman reina supremo. Mas, no mundo da superfície – um mundo que ele e Mera lutam para proteger – o Rei dos Mares está fora de seu elemento. A humanidade o despreza e o desrespeita, da mesma forma que faz com o oceano que ele comanda… Porém, uma nova ameaça aterrorizante emergiu do abismo negro quilômetros abaixo da superfície. Lá, nenhuma luz alcança, e apenas a fome e o ódio conseguem sobreviver. O Fosso acaba de ser aberto, despejando seu horror, e Aquaman precisará fazer uma escolha que vai contrapor a sobrevivência de uma espécie (a nossa espécie) à outra... ou o mundo todo será arrastado para o abismo! ",
+            "imagem"    : "./img/2.webp"
+        },
+        {
+            "titulo"    : "Grandes Heróis DC: Os Novos 52 Vol. 4 - Superman E Os Homens De Aço",
+            "descricao" : "O maior de todos os super-heróis faz a sua estreia na reformulação do Universo DC! </br>Clark Kent é um jovem que ainda está aprendendo a ser o Superman. Em busca de suas origens e do domínio de seus poderes, ele atrai a atenção de Lex Luthor, o magnata despótico disposto a tudo para descobrir os segredos do alienígena que veio de Krypton. </br>Reveja os primeiros dias do Homem de Aço em Metrópolis pelas mãos de Grant Morrison (Homem-Animal), Rags Morales (Crise de Identidade) e Andy Kubert (Ponto de Ignição). ",
+            "imagem"    : "./img/3.webp"
+        },
+        {
+            "titulo"    : "Grandes Heróis DC: Os Novos 52 Vol. 7 - Flash: Seguindo Em Frente",
+            "descricao" : "Atingido por um raio e banhado por produtos químicos, o perito forense Barry Allen foi transformado no Homem Mais Rápido do Mundo. Atuando em Central City como o Flash, até mesmo Barry sabe que não pode estar em todos os lugares ao mesmo tempo, mas, aparentemente, encontrou um adversário realmente parece poder estar em todos os lugares ao mesmo tempo! </br> Escrita e ilustrada pela equipe criativa de Francis Manapul (Trindade) e Brian Buccellato (Detective Comics), esta impressionante história é um dos pontos de entrada mais acessíveis em toda a vasta biblioteca da DC Comics. ",
+            "imagem"    : "./img/4.webp"
+        },
+        {
+            "titulo"    : "Hera Venenosa 02",
+            "descricao" : "Com uma nova missão, uma visão renovada da vida, novos poderes e um redescoberto sentido de propósito, uma nova era se inicia. E, claro, a Arlequina chegou à Costa Oeste para passar um tempinho de qualidade com sua garota favorita! Que tipo de caos loucamente lascivo e ridiculamente absurdo o casal Harleen Quinzel e Pamela Isley irá aprontar?",
+            "imagem"    : "./img/5.webp"
+        },
+        {
+            "titulo"    : "",
+            "descricao" : "",
+            "imagem"    : ""
+        }
+    ]
+}
